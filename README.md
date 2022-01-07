@@ -1,5 +1,5 @@
 # apt-install-script-Raspberry-Pi
-This is a bash script that automates installation of cybersecurity tools on the Raspberry Pi.
+This is a bash script that automates installation of cybersecurity and other tools on the Raspberry Pi.
 
 It is currently configured to only run the updates and exit.
 
